@@ -194,7 +194,7 @@ facedetect's GIT repository is publicly accessible at::
 
   git://src.thregr.org/facedetect
 
-or at https://github.com/wavexx/facedetect
+or at https://gitlab.com/wavexx/facedetect
 
 
 .. _ImageMagick: http://www.imagemagick.org
